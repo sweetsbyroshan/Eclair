@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "762543448268",
+    "firebase_url": "https://eclair-8317f.firebaseio.com",
+    "project_id": "eclair-8317f",
+    "storage_bucket": "eclair-8317f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762543448268:android:aafb8319a1abe6f9646269",
+        "android_client_info": {
+          "package_name": "com.rshns.eclair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762543448268-u9dhav7jvd49nm2vif37t9hsao2ln9n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rshns.eclair",
+            "certificate_hash": "c179f6a286b9d0080ebde17405623ceccae1c040"
+          }
+        },
+        {
+          "client_id": "762543448268-ip10l6pl8fimget74h4grcadsphregci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Lvqc1uQ9a7YJSpGT5wStTDbn69OfU7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762543448268-ip10l6pl8fimget74h4grcadsphregci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
